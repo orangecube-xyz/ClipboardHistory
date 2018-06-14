@@ -9,12 +9,17 @@ Used for:
 
 TO RUN IN BACKGROUND IN WINDOWS USE "PythonW script.py" (With a W)
 
-Simple DEMO:
-
 Run script:
+
+
 ![alt text](https://github.com/orangecube-xyz/ClipboardHistory/blob/master/run.png)
 
+
+
+
 Data captured:
+
+
 ![alt text](https://github.com/orangecube-xyz/ClipboardHistory/blob/master/log.png)
 
 
